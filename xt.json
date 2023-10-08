@@ -26,47 +26,47 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "豆瓣[js]",
+      "name": "搜索",
       "type": 3,
       "api": "./drpy_js/libs/drpy2.min.js",
       "ext": "./drpy_js/js/drpy.js"
     },
     {
-      "key": "360_spider",
-      "name": "360影视[sp]",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
       "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽[js]",
+      "name": "爱",
       "type": 3,
       "api": "./drpy_js/libs/drpy2.min.js",
       "ext": "./drpy_js/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷[js]",
+      "name": "优",
       "type": 3,
       "api": "./drpy_js/libs/drpy2.min.js",
       "ext": "./drpy_js/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾[js]",
+      "name": "腾",
       "type": 3,
       "api": "./drpy_js/libs/drpy2.min.js",
       "ext": "./drpy_js/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "百忙无果[js]",
+      "name": "芒",
       "type": 3,
       "api": "./drpy_js/libs/drpy2.min.js",
       "ext": "./drpy_js/js/百忙无果.js"
+    },
+    {
+      "key": "360_spider",
+      "name": "360",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
     },
     {
       "key": "push_agent",
